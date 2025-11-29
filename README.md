@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi!
 
-<!--
-**cdervis/cdervis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cem Dervis. In my day job I work as a software engineer, where I solve various visualization problems.
 
-Here are some ideas to get you started:
+My main areas of interest in software are low-level optimization techniques, computer graphics and compiler construction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In computer graphics, I specialize in volumetric rendering.
+Languages I use most often include C++, Swift, Rust and C#. Oh, and German, Turkish and English. 🙂
+
+Some of my other interests include hiking, astrophotography, bass guitar and archery.
+
+- [Polly](https://polly2d.com/) – 2D Game Framework for C++
+- [cppstat](https://cppstat.dev/) – C++ compiler support status page
+- [BMFGen](https://bmfgen.com/) – Bitmap Font Generator for macOS and Windows
+- [SharpConfig](https://dervis.de/sharpconfig/) – CFG/INI library for .NET
+- [linq](https://dervis.de/linq/) Header-only – LINQ library for C++
+- [Exilus](https://dervis.de/exilus.html) – Kurushi-style 3D game written in C++
+- [cppgfx](https://dervis.de/cppgfx.html) – CPU-based graphics library for C++
