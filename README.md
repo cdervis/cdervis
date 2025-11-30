@@ -11,6 +11,7 @@ Some of my other interests include hiking, astrophotography, bass guitar and arc
 
 - [Polly](https://polly2d.com/) – 2D Game Framework for C++
 - [cppstat](https://cppstat.dev/) – C++ compiler support status page
+- [DropZipper](https://dropzipper.com) – Zip and encryption tool for macOS
 - [BMFGen](https://bmfgen.com/) – Bitmap Font Generator for macOS and Windows
 - [SharpConfig](https://dervis.de/sharpconfig/) – CFG/INI library for .NET
 - [linq](https://dervis.de/linq/) Header-only – LINQ library for C++
